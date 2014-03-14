@@ -51,6 +51,7 @@
 		// if mouseout occurs to soon after mouseover
 		open: function() {
 			$(this).one('mouseout.wpcustom', function() {
+
 				$(this)
 					.off('mouseout.wpcustom')
 					.tooltip('disable')
