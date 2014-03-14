@@ -32,7 +32,8 @@
 					titles: target[1],
 					explaintext: 1,
 					exintro: 1,
-					format: 'json'
+					format: 'json',
+					redirects: 1
 				},
 
 				function( response ) {
