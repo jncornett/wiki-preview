@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "wikiPreview",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Display Wikipedia extracts when hovering over links.",
   "icons": {
