@@ -3,13 +3,13 @@
   "name": "wikiPreview",
   "version": "1.0",
 
-  "description": "Hovering over links on wikipedia causes the summary to display in a popup.",
+  "description": "Display Wikipedia extracts when hovering over links.",
 
   "content_scripts": [
     {
       "matches": ["*://*.wikipedia.org/*"],
       "css": [
-        "css/ui-lightness/jquery-ui-1.10.4.custom.css",
+        "css/ui-lightness/jquery-ui-1.10.4.custom.min.css",
         "css/tooltip.css"
       ],
       "js": [
