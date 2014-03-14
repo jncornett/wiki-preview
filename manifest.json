@@ -24,17 +24,16 @@
   ],
 
   "background": {
-    "scripts": ["scripts/background.js"],
+    "scripts": ["js/background.js"],
     "persistent": false
   },
 
   "page_action": {
-    "default_name": "wikiPreview",
-    "default_icon": "images/icon.png"
+    "default_icon": "images/eye_open.png",
+    "default_title": "wikiPreview ON"
   },
 
   "permissions": [
-    "declarativeContent",
-    "tabs"
+    "declarativeContent"
   ]
 }

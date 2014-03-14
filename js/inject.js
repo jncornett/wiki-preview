@@ -1,6 +1,7 @@
 (function($, undefined) {
 	var targetRegex,
-		retrieveContent;
+		retrieveContent,
+		tooltipSettings;
 
 	targetRegex = /\/wiki\/(.*)/;
 
@@ -41,33 +42,40 @@
 
 	};
 
+	tooltipSettings = {
+		tooltipClass: 'wikiPreview-tooltip',
+		content: retrieveContent,
+		items: 'a[href^="/wiki/"]',
+
+		// Hotfix for tooltips getting stuck open
+		// if mouseout occurs to soon after mouseover
+		open: function() {
+			$(this).one('mouseout.wpcustom', function() {
+				$(this)
+					.off('mouseout.wpcustom')
+					.tooltip('disable')
+					.tooltip('enable');
+			});
+		}
+	};
+
 	$(function() {
 		
+		$(document).tooltip(tooltipSettings);
+
+		chrome.runtime.onMessage.addListener(function( message ) {
+			console.log(message);
+			if ( message.disabled ) {
+				$(document).tooltip('destroy');
+			} else {
+				$(document).tooltip(tooltipSettings);
+			}
+		});
+
 		// Remove the native title to prevent the tooltip from
 		// being displayed
 		$('a[href^="/wiki/"]').removeAttr('title');
 
-		$(document).tooltip({
-			tooltipClass: 'wikiPreview-tooltip',
-			content: retrieveContent,
-			items: 'a[href^="/wiki/"]',
-
-			// Hotfix for tooltips getting stuck open
-			// if mouseout occurs to soon after mouseover
-			open: function() {
-				$(this).one('mouseout.wpcustom', function() {
-					$(this)
-						.off('mouseout.wpcustom')
-						.tooltip('disable')
-						.tooltip('enable');
-				});
-			}
-		});
-
-		chrome.runtime.onMessage.addListener(function( message ) {
-			if ( message.disabled ) {
-				$(document).tooltip('destroy');
-			}
-		});
 	});
+	
 })(jQuery);
