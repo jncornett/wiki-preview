@@ -4,6 +4,9 @@
   "version": "1.0",
 
   "description": "Display Wikipedia extracts when hovering over links.",
+  "icons": {
+    "128": "images/icon.png"
+  },
 
   "content_scripts": [
     {
@@ -18,5 +21,20 @@
         "js/inject-min.js" 
       ]
     }
+  ],
+
+  "background": {
+    "scripts": ["scripts/background.js"],
+    "persistent": false
+  },
+
+  "page_action": {
+    "default_name": "wikiPreview",
+    "default_icon": "images/icon.png"
+  },
+
+  "permissions": [
+    "declarativeContent",
+    "tabs"
   ]
 }

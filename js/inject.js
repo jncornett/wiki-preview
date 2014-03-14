@@ -63,5 +63,11 @@
 				});
 			}
 		});
+
+		chrome.runtime.onMessage.addListener(function( message ) {
+			if ( message.disabled ) {
+				$(document).tooltip('destroy');
+			}
+		});
 	});
 })(jQuery);
