@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "wikiPreview",
+  "version": "1.0",
+
+  "description": "Hovering over links on wikipedia causes the summary to display in a popup.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.wikipedia.org/*"],
+      "css": [
+        "css/ui-lightness/jquery-ui-1.10.4.custom.css",
+        "css/tooltip.css"
+      ],
+      "js": [
+        "js/jquery-min.js",
+        "js/jquery-ui-1.10.4.custom.min.js",
+        "js/inject-min.js" 
+      ]
+    }
+  ]
+}
