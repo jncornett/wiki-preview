@@ -1,0 +1,1199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tool",
+				"tooltipSettings"
+			],
+			[
+				"retur",
+				"returnValue"
+			],
+			[
+				"webkit-progress-",
+				"webkit-progress-bar"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"prima",
+				"primary-shadow"
+			],
+			[
+				"butt",
+				"button-style"
+			],
+			[
+				"togg",
+				"toggle-item"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"border-bott",
+				"border-bottom-right-radius"
+			],
+			[
+				"border",
+				"border-top-right-radius"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-bot",
+				"border-bottom-right-radius"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"call",
+				"callout-mixin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cal",
+				"callout-mixin"
+			],
+			[
+				"def",
+				"defaultDoroTitle"
+			],
+			[
+				"Pomo",
+				"PomodoroView"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"break",
+				"breakTimeMinutes"
+			],
+			[
+				"minu",
+				"minutesToMs"
+			],
+			[
+				"ass",
+				"assertIff"
+			],
+			[
+				"curren",
+				"currentModel"
+			],
+			[
+				"curre",
+				"currentModel"
+			],
+			[
+				"curr",
+				"currentModel"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"cur",
+				"curTimer"
+			],
+			[
+				"notif",
+				"notificationId"
+			],
+			[
+				"time",
+				"timerQueue"
+			],
+			[
+				"notific",
+				"notificationOptions"
+			],
+			[
+				"DORO",
+				"DORO_NOTIFICATION_ICON_URL"
+			],
+			[
+				"DOR",
+				"DORO_NOTIFICATION_ICON_URL"
+			],
+			[
+				"Doro",
+				"DoroCollection"
+			],
+			[
+				"alar",
+				"alarmId"
+			],
+			[
+				"al",
+				"alarmId"
+			],
+			[
+				"click",
+				"clickPlayPause"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"rege",
+				"regex-matched"
+			],
+			[
+				"LIP",
+				"LIPSUM_LENGTH"
+			],
+			[
+				"LIPS",
+				"LIPSUM_LENGTH"
+			],
+			[
+				"LI",
+				"LIPSUM_MAX_MATCH_RATIO"
+			],
+			[
+				"LIPSUM",
+				"LIPSUM_LENGTH"
+			],
+			[
+				"COL",
+				"COLUMNS"
+			],
+			[
+				"COLU",
+				"COLUMN_HEADINGS"
+			],
+			[
+				"command",
+				"commandHandler"
+			],
+			[
+				"comm",
+				"commandHandler"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"sear",
+				"searchString"
+			],
+			[
+				"invali",
+				"invalid-regex"
+			],
+			[
+				"inv",
+				"invalid-regex"
+			],
+			[
+				"timeou",
+				"timeoutObject"
+			],
+			[
+				"REGEX",
+				"REGEX_FLAGS"
+			],
+			[
+				"f",
+				"findAll"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"noti",
+				"notificationId"
+			],
+			[
+				"forma",
+				"formatRegExp"
+			],
+			[
+				"scr",
+				"scrapeApeHilight"
+			],
+			[
+				"tar",
+				"targetToCSV"
+			],
+			[
+				"previ",
+				"previousTarget"
+			],
+			[
+				"cons",
+				"constructTable"
+			],
+			[
+				"App",
+				"ApplicationStateModel"
+			],
+			[
+				"Target",
+				"TargetModel"
+			],
+			[
+				"Tar",
+				"TargetCollection"
+			],
+			[
+				"Targ",
+				"TargetCollection"
+			],
+			[
+				"increm",
+				"incrementSize"
+			],
+			[
+				"incre",
+				"incrementSize"
+			],
+			[
+				"inc",
+				"incrementSize"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"prev",
+				"previousView"
+			],
+			[
+				"FoundT",
+				"FoundTableCollection"
+			],
+			[
+				"Found",
+				"FoundTableModel"
+			],
+			[
+				"page",
+				"pageMinerHighlight"
+			],
+			[
+				"un",
+				"unHighlightScript"
+			],
+			[
+				"viewB",
+				"viewButtonClickCallback"
+			],
+			[
+				"hi",
+				"highlightScript"
+			],
+			[
+				"hig",
+				"highlightCSS"
+			],
+			[
+				"inde",
+				"indexOnPage"
+			],
+			[
+				"daatObj",
+				"dataObject"
+			],
+			[
+				"vie",
+				"viewButtonClickCallback"
+			],
+			[
+				"dataObj",
+				"dataObject"
+			],
+			[
+				"rep",
+				"replaceObject"
+			],
+			[
+				"data",
+				"dataObjects"
+			],
+			[
+				"dataO",
+				"dataObject"
+			],
+			[
+				"ok",
+				"okButtonClickCallback"
+			],
+			[
+				"up",
+				"previewTableUpdateCallback"
+			],
+			[
+				"pre",
+				"previewDiv"
+			],
+			[
+				"jqT",
+				"jqTableElement"
+			],
+			[
+				"next",
+				"nextButtonClickCallback"
+			],
+			[
+				"TableD",
+				"TableDataCollection"
+			],
+			[
+				"Tab",
+				"TableDataCollection"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"jqH",
+				"jqHeadTable"
+			],
+			[
+				"ROW",
+				"PREVIEW_ROWS_THRESHOLD"
+			],
+			[
+				"tabl",
+				"TableModel"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"ape",
+				"appendTo"
+			],
+			[
+				"hea",
+				"headerItem"
+			],
+			[
+				"cell",
+				"cellText"
+			],
+			[
+				"tbo",
+				"tbodyElement"
+			],
+			[
+				"extra",
+				"extractDataFromTable"
+			],
+			[
+				"header",
+				"headerRowElement"
+			],
+			[
+				"TAB",
+				"TABLE_COLUMN_THRESHOLD"
+			],
+			[
+				"ext",
+				"extractDataFromTable"
+			],
+			[
+				"filt",
+				"filterCallback"
+			],
+			[
+				"update",
+				"updateIndexCallback"
+			],
+			[
+				"init",
+				"initializeTablesFound"
+			],
+			[
+				"get",
+				"getDataCells"
+			],
+			[
+				"rwo",
+				"rowElement"
+			],
+			[
+				"colh",
+				"colheader"
+			],
+			[
+				"coleh",
+				"colheaders"
+			],
+			[
+				"head",
+				"headElement"
+			],
+			[
+				"clh",
+				"colheader"
+			],
+			[
+				"chil",
+				"childTagName"
+			],
+			[
+				"tab",
+				"tableElement"
+			],
+			[
+				"dataOb",
+				"dataObject"
+			],
+			[
+				"table",
+				"tableElement"
+			],
+			[
+				"attr",
+				"attributeString"
+			],
+			[
+				"att",
+				"attributeString"
+			],
+			[
+				"arr",
+				"arrays"
+			],
+			[
+				"getTa",
+				"getTableData"
+			],
+			[
+				"extrac",
+				"extractTableData"
+			],
+			[
+				"the",
+				"theadElement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/css/tooltip.css",
+			"settings":
+			{
+				"buffer_size": 90,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/inject-min.js",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/ui-lightness/jquery-ui-1.10.4.custom.css",
+			"settings":
+			{
+				"buffer_size": 3718,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/inject.js",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ui-tooltip ui-widget ui-corner-all ui-widget-content wikiPreview-tooltip\nui-tooltip-content",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix",
+				"name": "ui-tooltip ui-widget ui-corner-all ui-widget-conte"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"dir(sublime)",
+			"sublime.source",
+			"dir()",
+			"selector",
+			"source",
+			"6/16.0",
+			"1/16.0",
+			"2/16.0",
+			"4 /16.0",
+			"0.188 * 16",
+			"7/16.0",
+			"3 / 16.",
+			"5 /16.",
+			"10 / 16.0",
+			"5 / 16.0",
+			"3 / 16.0",
+			"3 / 16.90",
+			"1/ 16",
+			"4 / 16",
+			"313 / 2.0",
+			"185 / 16.",
+			"22 / 16.0",
+			"25 / 16.0",
+			"30 / 16.0",
+			"64/16.0",
+			"5/16.0",
+			"3/16.0",
+			"5 / 16.0",
+			"''.split()",
+			"'",
+			"'   one'.split()",
+			"'one  '.split()",
+			"'one  '.strip().split()",
+			"hex(64)",
+			"hex(96)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/User/CSS(minify).sublime-build",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/src/js/jquery-1.10.2.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/js/inject.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/js/background.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/jquery-ui-1.10.4.custom/development-bundle/demos/tooltip/video-player.html",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/jquery-ui-1.10.4.custom/development-bundle/package.json",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/jquery-ui-1.10.4.custom/development-bundle/external/globalize.culture.de-DE.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/jquery-ui-1.10.4.custom/development-bundle/external/jquery.mousewheel.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/css/tooltip.css",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/css/ui-lightness/jquery-ui-1.10.4.custom.min.css",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/inject.css",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/inject-min.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/inject.less",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/jquery-min.js",
+		"/Users/joelcornett/Dropbox/Projects/wikiPreview/jquery-ui-1.10.4.custom.zip",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/scripts/popup.js",
+		"/Users/joelcornett/Desktop/test.tex",
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/User/Latex.sublime-build",
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/User/less.sublime-build",
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/User/HTML(file).sublime-build",
+		"/Users/joelcornett/Desktop/test.py",
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/scripts/models.js",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/style.less",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/reset.css",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/popup.html",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/stylewatcher.py",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/style.css",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/server.py",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/>",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/scripts/model.js",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/scripts/background.js",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/ui.progressbar.css",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/test.html",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/cr.ext.style.css",
+		"/Users/joelcornett/Dropbox/Projects/psyclops-designs/test.html",
+		"/Users/joelcornett/Dropbox/Projects/psyclops-designs/reset.css",
+		"/Users/joelcornett/Dropbox/Projects/psyclops-designs/style.less",
+		"/Users/joelcornett/Dropbox/Projects/psyclops-designs/style.css",
+		"/Users/joelcornett/Dropbox/Projects/doro/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/doro/_locales/en/messages.json",
+		"/Users/joelcornett/Dropbox/Projects/doro/popup.html",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/models.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/popup.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/lib/underscore-min.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/lib/jquery-min.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/lib/backbone-min.js",
+		"/Users/joelcornett/Dropbox/Projects/pomo/popup-models.js",
+		"/Users/joelcornett/Dropbox/Projects/pomo/style.css",
+		"/Users/joelcornett/Dropbox/Projects/pomo/popup.html",
+		"/Users/joelcornett/Dropbox/Projects/pomo/popup.js",
+		"/Users/joelcornett/Dropbox/Projects/pomo/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/pomo/background-models.js",
+		"/Users/joelcornett/Dropbox/Projects/pomo/assert.js",
+		"/Users/joelcornett/Dropbox/Projects/pomo/background.js",
+		"/Users/joelcornett/Dropbox/Projects/pomo/untitled",
+		"/Users/joelcornett/Dropbox/Projects/pomo/background2.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/background3.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/background2.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/timer.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/background.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/css/reset.css",
+		"/Users/joelcornett/Dropbox/Projects/doro/background.html",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/background-utils.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/doro-models.js",
+		"/Users/joelcornett/Dropbox/Projects/doro/_locales/ja/messages.json",
+		"/Users/joelcornett/Dropbox/Projects/doro/css/style.css",
+		"/Users/joelcornett/Dropbox/Projects/doro/scripts/style.css",
+		"/Users/joelcornett/Dropbox/Projects/pomodoro/css/font-awesome.min.css",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/rex/scripts/rex.lib.js",
+		"/Users/joelcornett/Dropbox/Projects/rex/popup.html",
+		"/Users/joelcornett/Dropbox/Projects/rex/scripts/popup.js",
+		"/Users/joelcornett/Dropbox/Projects/rex/css/rex.style.css",
+		"/Users/joelcornett/Dropbox/Projects/rex/css/style.css",
+		"/Users/joelcornett/Dropbox/Projects/rex/scripts/inject.js",
+		"/Users/joelcornett/Dropbox/School/Homework/Survey Sampling/hw5/q3.py",
+		"/Users/joelcornett/Dropbox/Projects/rex/supplemental/example.html",
+		"/Users/joelcornett/Dropbox/Projects/rex/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/rex/scripts/inject.min.js",
+		"/Users/joelcornett/Dropbox/Projects/rex/rexample.html",
+		"/Users/joelcornett/Dropbox/Projects/rex/inject.js",
+		"/Users/joelcornett/Dropbox/Projects/rex/scripts/rex.lib.min.js",
+		"/Users/joelcornett/Dropbox/Projects/rex/rex.lib.js",
+		"/Users/joelcornett/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/joelcornett/Dropbox/Projects/tick/config.html",
+		"/Users/joelcornett/Dropbox/Projects/scrape.ape/scripts/inject.js",
+		"/Users/joelcornett/Dropbox/Projects/scrape.ape/scripts/backbone-min.js",
+		"/Users/joelcornett/Dropbox/Projects/scrape.ape/scripts/underscore-min.js",
+		"/Users/joelcornett/Dropbox/Projects/scrape.ape/scripts/jquery-2.1.0.min.js",
+		"/Users/joelcornett/Dropbox/Projects/scrape.ape/manifest.json",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/scripts/inject.js",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/scripts/background.js",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/scripts/unhilight.js",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/scripts/popup.js",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/css/popup.css",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/popup.html",
+		"/Users/joelcornett/Dropbox/Projects/pageminer/scripts/highlight.js",
+		"/Users/joelcornett/Dropbox/Projects/Extractor/table_extract.js",
+		"/Users/joelcornett/Dropbox/Projects/Extractor/experiments/testpage.html",
+		"/Users/joelcornett/Dropbox/Projects/Extractor/table_extractor.js",
+		"/Users/joelcornett/Dropbox/Projects/Extractor/popup.js",
+		"/Users/joelcornett/Dropbox/Projects/Extractor/background.js",
+		"/Users/joelcornett/Dropbox/Projects/Extractor/experiments/diff.txt",
+		"/Users/joelcornett/Dropbox/Snippets/susolver.py",
+		"/Users/joelcornett/Dropbox/Snippets/maze_solver.py",
+		"/Users/joelcornett/Dropbox/toolchain/utils.py",
+		"/Users/joelcornett/Dropbox/toolchain/slice.py",
+		"/Users/joelcornett/Dropbox/toolchain/filter.py",
+		"/Users/joelcornett/Dropbox/toolchain/pretty.py",
+		"/Users/joelcornett/Dropbox/toolchain/groupby.py",
+		"/Users/joelcornett/Dropbox/toolchain/csvutils.py",
+		"/Users/joelcornett/Dropbox/toolchain/filter2.py",
+		"/Users/joelcornett/Dropbox/toolchain/argumentparser.py",
+		"/Users/joelcornett/Dropbox/toolchain/tokenize.py",
+		"/Users/joelcornett/Dropbox/toolchain/checkpoint.py",
+		"/Users/joelcornett/Documents/Arduino/sounder/note_converter.py",
+		"/Users/joelcornett/Desktop/cleanedup.csv",
+		"/Users/joelcornett/Documents/Arduino/sounder/sounder.ino",
+		"/Users/joelcornett/Desktop/ptest.py",
+		"/Users/joelcornett/Dropbox/chip8/chip8.py",
+		"/Users/joelcornett/Dropbox/chip8/chip8.c",
+		"/Users/joelcornett/Downloads/2014 Total Orders.rtf",
+		"/Users/joelcornett/Desktop/rtfparse.py",
+		"/Users/joelcornett/Desktop/cleanedup.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tooltipEnabled",
+			"tooltip",
+			"time",
+			"on",
+			"\\bon\\b",
+			"25em",
+			"accent",
+			"primary",
+			"round-right",
+			"round-right;",
+			"round-right",
+			"679b00",
+			"9fee00",
+			"006363",
+			"color-5",
+			"color-4",
+			"color-3",
+			"teal",
+			"color-2",
+			"color-1",
+			"-9999px",
+			"999px",
+			"margin",
+			"button",
+			"input",
+			"right",
+			"left",
+			"button",
+			"left",
+			"}\n",
+			"queue",
+			"queueg",
+			"queue",
+			"		\n",
+			"callback",
+			"2px",
+			"timer",
+			"start",
+			"div",
+			"row",
+			"forward",
+			"executeSearch",
+			"id",
+			"console",
+			"-",
+			"remove",
+			"box",
+			"constructElement",
+			"execRegex",
+			"findAll",
+			"makeSpan",
+			"textNode",
+			"makeSpan",
+			"creatTextNode",
+			"parseString",
+			"expr",
+			"foundMatch",
+			"model\\.",
+			"model.",
+			"model",
+			"self",
+			"preview",
+			"view",
+			"1",
+			"page",
+			"});",
+			"console",
+			"log",
+			"populate",
+			"asURI",
+			"toCSV",
+			"okButtonClickCallback",
+			"result",
+			"maxRowLe",
+			"cells",
+			"row\\b",
+			"dataObject\\b",
+			"		\n",
+			"<table",
+			"<table>",
+			"eq",
+			"col_filters",
+			"filter_expression",
+			"\\n",
+			"ORD",
+			"Important",
+			"Deltas",
+			"\\.data",
+			"\\.from",
+			"from",
+			"print ",
+			"box[\\'",
+			"box[\\'(\\w+)",
+			"box['(\\w+)",
+			"box\\['(\\w+)'\\]",
+			"box['(\\w+)']",
+			"box\\['",
+			"box",
+			"output\\.append\\('([^':]+)[^']*'\\s*\\+\\s*str\\((\\w+)\\)\\)",
+			"output\\.append\\('([^']+)'\\s*\\+\\s*str\\((\\w+)\\)\\)",
+			"vector",
+			"script001",
+			"self.__class__",
+			"None",
+			"#quote",
+			"#main",
+			"main",
+			"></",
+			"self.size()",
+			"self.size",
+			"object",
+			"def",
+			"_get_value",
+			"font",
+			"selectorgroup",
+			"whitespace",
+			"	\n",
+			"flash",
+			"for=",
+			"None",
+			":\n",
+			"unmap_ordered",
+			"qmarks",
+			"COL_MAP",
+			"_cmd",
+			"),",
+			"None",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"log.printf(\\2, '\\1')",
+			"\\1",
+			"log\\.printf(",
+			"type(self)",
+			"		",
+			"wsopt",
+			"_unmap_ordered",
+			"_qmarks",
+			"groups(name",
+			"#",
+			"# ",
+			"########################################",
+			"hsv",
+			"hsvUnitArray",
+			"g",
+			"b",
+			"r",
+			"\\1",
+			"game.clickSecondary",
+			"gameButton",
+			"log",
+			"'",
+			"",
+			"arrayExtend",
+			"return self.__class__",
+			"is_sequence(other)",
+			"_extends"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/css/tooltip.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/inject-min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/css/ui-lightness/jquery-ui-1.10.4.custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/inject.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1165
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 761.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"auto_name": "ui-tooltip ui-widget ui-corner-all ui-widget-conte",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "wikiPreview.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
