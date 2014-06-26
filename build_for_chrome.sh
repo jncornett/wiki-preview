@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# This stuff isn't necessary. In fact, I would avoid running this script as it doesn't update the
+# script references in the HTML.
+
 mkdir build
 cp src/manifest.json build/manifest.json
 cp -r src/css build/
